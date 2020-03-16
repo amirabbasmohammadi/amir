@@ -6,5 +6,6 @@ public class Foot {
         Scanner input = new Scanner(System.in);
         int t = input.nextInt();
        System.out.println(t);
+        System.out.println("salam");
     }
 }
